@@ -23,7 +23,7 @@
 </div>
 <div>
 <p>Estou sempre em busca de aprender, sou ótima com trabalho em equipe, sou calma, compreensiva e dedicada, gosto de debater sempre sobre o que esta acontecendo no mundo da tecnologia.</p>
-</div style="display: inline_block">
+</div>
 <div>
 <a href="https://github.com/ImportFreya">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ImportFreya&show_icons=true&include_all_commits=true&count_private=true&bg_color=45,8e2de2,4a00e0&title_color=fff&icon_color=fff&border_color=000&text_color=fff"/>
