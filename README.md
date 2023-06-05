@@ -10,6 +10,7 @@
   <img align="center" alt="Thau-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thau-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thau-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="right" alt="Thau-Icone" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/844770389355266088/1115415066850898030/download20230502095154.gif?width=593&height=593">
   
 </div>
   
