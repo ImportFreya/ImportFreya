@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/thauane-souza-13a40422b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <div>
-<p>Estou sempre em busca de aprender, sou ótima com trabalho em equipe, sou calma, compreensiva e dedicada, gosto de debater sempre sobre o que esta acontecendo no mundo da tecnologia. Contate-me através das redes sociais, estarei lhe aguardando, obrigada e volta sempre hahaha!</p>
+<p>Estou sempre em busca de aprender, sou ótima com trabalho em equipe, sou calma, compreensiva e dedicada, gosto de debater sempre sobre o que esta acontecendo no mundo da tecnologia. Contate-me através das redes sociais. Obrigada e volte sempre hahaha!</p>
 </div>
 <div>
 <a href="https://github.com/ImportFreya">
