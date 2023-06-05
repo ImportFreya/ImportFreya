@@ -3,6 +3,11 @@
 - ✍ Estudando Typescript e ReactJs
 - 👩‍🦰 Pronouns: ela/dela
 
+<div>
+<a href="https://github.com/ImportFreya">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ImportFreya&show_icons=true&include_all_commits=true&count_private=true&bg_color=45,8e2de2,4a00e0&title_color=fff&icon_color=fff&border_color=000&text_color=fff"/>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Thau-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thau-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -24,10 +29,6 @@
 </div>
 <div>
 <p>Estou sempre em busca de aprender, sou ótima com trabalho em equipe, sou calma, compreensiva e dedicada, gosto de debater sempre sobre o que esta acontecendo no mundo da tecnologia. Contate-me através das redes sociais. Obrigada e volte sempre hahaha!</p>
-</div>
-<div>
-<a href="https://github.com/ImportFreya">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ImportFreya&show_icons=true&include_all_commits=true&count_private=true&bg_color=45,8e2de2,4a00e0&title_color=fff&icon_color=fff&border_color=000&text_color=fff"/>
 </div>
 
 
