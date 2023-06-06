@@ -15,7 +15,7 @@
   <img align="center" alt="Thau-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thau-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thau-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Thau-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="Thau-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
  <img align="right" alt="Thau-Icone" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/844770389355266088/1115416379672244355/download20230601200619.png?width=593&height=593">
   
 </div>
