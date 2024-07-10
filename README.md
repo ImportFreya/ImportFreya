@@ -1,6 +1,6 @@
 # Olá! Eu sou Thauane Souza
-- 👨‍💻 Hoje trabalho com Front-end
-- ✍ Estudando Typescript, ReactJs, PHP e NextJs
+- 👨‍💻 Hoje trabalho com Front-end e Suporte
+- ✍ Estudando Typescript, ReactJs, e NodeJS
 - 👩‍🦰 Pronouns: ela/dela
 
 <div>
