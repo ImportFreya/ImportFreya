@@ -1,67 +1,56 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150"/>
-</div>
+# Olá! Eu sou Thauane Souza 👋
 
-###
+- 👩‍💻 Atualmente atuo com **Front-end e Suporte**
+- 🎯 Estudando **TypeScript, ReactJS e NodeJS**
+- 🌈 Pronomes: **ela/dela**
+- 💬 Gosto de conversar sobre tecnologia, aprender e compartilhar!
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/thauane-souza/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://meu-portifolio-sand-delta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfólio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-  </a>
-</div>
-
-###
+---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=thauane-souza.thauane-souza&" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ImportFreya&show_icons=true&include_all_commits=true&count_private=true&bg_color=45,8e2de2,4a00e0&title_color=fff&icon_color=fff&border_color=000&text_color=fff"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImportFreya&layout=compact&bg_color=45,8e2de2,4a00e0&title_color=fff&text_color=fff&icon_color=fff&border_color=000"/>
 </div>
 
-###
+---
 
-<h1 align="center">Olá, eu sou a Thauane 👩‍💻</h1>
+## 🚀 Tecnologias que uso
 
-<div align="center">
-  <img src="https://cdn.openai.com/chat-plugins/image-gen/file_0000000019d061f8bae0f83e73ee6da5.png" height="300" alt="Ilustração da Thauane"/>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Thau-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Thau-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Thau-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Thau-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+  <img align="center" alt="Thau-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Thau-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Thau-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
-###
+---
 
-<h3 align="left">👩‍💻 Sobre mim</h3>
+## 🌐 Contatos
 
-<p align="left">
-Sou desenvolvedora full stack apaixonada por criar soluções que facilitam o dia a dia de equipes técnicas e usuários. <br><br>
-🔭 Atualmente trabalhando no projeto Portal Mesa<br>
-📚 Aprendendo mais sobre DevOps e automações<br>
-⚡ Gosto de café, gatos e transformar ideias em código
-</p>
-
-###
-
-<h3 align="left">🛠 Tecnologias e Ferramentas</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+<div>
+  <a href="https://www.instagram.com/thau.souz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://discord.gg/Z55b9r73gE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+  <a href="mailto:thauane-souza1@live.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/thauane-souza-13a40422b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
-###
+---
 
-<h3 align="left">📊 Estatísticas</h3>
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5ldGlrdDR2dDlyaTI3eHpueGNsbTl5cTRoazJ2N2p2MTJ6ZHQ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AsuCf15CIj0Va/giphy.gif" width="150" alt="Naruto hokage" />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=thauane-souza&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" />
-</div>
+> _"Enquanto você estiver com vontade de correr atrás dos seus sonhos... ninguém poderá te parar."_ 🧡  
+> — **Naruto Uzumaki**
+<br>
+
+## ✨ Sobre mim
+
+Sou apaixonada por tecnologia, adoro desafios e estou sempre buscando aprender mais. Tenho facilidade com trabalho em equipe, sou calma, compreensiva e dedicada. Curto muito conversar sobre o mundo tech e compartilhar conhecimentos.
+
+> Obrigada por visitar meu perfil! Volte sempre! 😄
+
+---
+
+<img src="https://raw.githubusercontent.com/ImportFreya/ImportFreya/output/snake.svg" alt="Snake animation" />
