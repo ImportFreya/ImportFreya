@@ -1,57 +1,67 @@
 <div align="center">
- <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150"/>
 </div>
 
-<h1 align="center"> 👩‍💻 Seja bem-vindo(a) ao meu GitHub! </h1> 
-<p align="center"><i>Desenvolvedora Full Stack</i></p>
-
----
-
-## 🌟 Sobre Mim
-
-<img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
-
-Eu sou a **Thauane Souza Santos**, desenvolvedora apaixonada por tecnologia, inovação e soluções criativas.
-
-Acredito no poder da colaboração, aprendizado constante e na construção de projetos que impactam positivamente a vida das pessoas. 🚀✨
+###
 
 <div align="center">
-  <a href="mailto:thauane.souza.santos@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF6584&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-  </a> 
-  <a href="https://www.linkedin.com/in/thauane-souza-santos/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  <a href="https://www.linkedin.com/in/thauane-souza/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://meu-portifolio-sand-delta.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfólio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
 </div>
 
----
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImportFreya&layout=compact&langs_count=20&theme=tokyonight" alt="Github top linguagens"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImportFreya&theme=tokyonight" alt="Github estatísticas"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=thauane-souza.thauane-souza&" />
 </div>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ImportFreya/ImportFreya/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ImportFreya/ImportFreya/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ImportFreya/ImportFreya/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
----
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5ldGlrdDR2dDlyaTI3eHpueGNsbTl5cTRoazJ2N2p2MTJ6ZHQ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AsuCf15CIj0Va/giphy.gif" width="150" alt="Naruto hokage" />
-
-> _"Enquanto você estiver com vontade de correr atrás dos seus sonhos... ninguém poderá te parar."_ 🧡  
-> — **Naruto Uzumaki**
-<br>
-
----
+<h1 align="center">Olá, eu sou a Thauane 👩‍💻</h1>
 
 <div align="center">
-  <img align="middle" src="https://github.com/user-attachments/assets/44296890-aa50-4ab3-9f9c-fbf4dd8ed8bc" width="350" alt="Imagem em desenho de uma mulher e um gato em cima de um notebook" />
+  <img src="https://cdn.openai.com/chat-plugins/image-gen/file_0000000019d061f8bae0f83e73ee6da5.png" height="300" alt="Ilustração da Thauane"/>
 </div>
-<br>
-<p align="center"><i>Obrigada pela visita! ❤️</i></p>
+
+###
+
+<h3 align="left">👩‍💻 Sobre mim</h3>
+
+<p align="left">
+Sou desenvolvedora full stack apaixonada por criar soluções que facilitam o dia a dia de equipes técnicas e usuários. <br><br>
+🔭 Atualmente trabalhando no projeto Portal Mesa<br>
+📚 Aprendendo mais sobre DevOps e automações<br>
+⚡ Gosto de café, gatos e transformar ideias em código
+</p>
+
+###
+
+<h3 align="left">🛠 Tecnologias e Ferramentas</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+</div>
+
+###
+
+<h3 align="left">📊 Estatísticas</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=thauane-souza&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" />
+</div>
