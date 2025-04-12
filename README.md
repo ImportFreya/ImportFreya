@@ -47,4 +47,5 @@ Sou apaixonada por tecnologia, adoro desafios e estou sempre buscando aprender m
 
 ---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ImportFreya/ImportFreya/output/github-snake.svg" alt="snake gif" />
+
