@@ -1,53 +1,57 @@
-# Olá! Eu sou Thauane Souza 👋
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWk2MGhnNjBkMjF5azNzdWd6cndiYWthdzRoNWZsbGIwdnpnM2lybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBwdIuRJiAIqHwA/giphy.gif" width="100" alt="Gif com saudações" />
+</div>
 
-- 👩‍💻 Atualmente atuo com **Front-end e Suporte**
-- 🎯 Estudando **TypeScript, ReactJS e NodeJS**
-- 🌈 Pronomes: **ela/dela**
-- 💬 Gosto de conversar sobre tecnologia, aprender e compartilhar!
+<h1 align="center"> 👩‍💻 Seja bem-vindo(a) ao meu GitHub! </h1> 
+<p align="center"><i>Desenvolvedora Full Stack</i></p>
+
+---
+
+## 🌟 Sobre Mim
+
+<img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
+
+Eu sou a **Thauane Souza Santos**, desenvolvedora apaixonada por tecnologia, inovação e soluções criativas.
+
+Acredito no poder da colaboração, aprendizado constante e na construção de projetos que impactam positivamente a vida das pessoas. 🚀✨
+
+<div align="center">
+  <a href="mailto:thauane.souza.santos@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF6584&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+  </a> 
+  <a href="https://www.linkedin.com/in/thauane-souza-santos/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
+</div>
 
 ---
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ImportFreya&show_icons=true&include_all_commits=true&count_private=true&bg_color=45,8e2de2,4a00e0&title_color=fff&icon_color=fff&border_color=000&text_color=fff"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImportFreya&layout=compact&bg_color=45,8e2de2,4a00e0&title_color=fff&text_color=fff&icon_color=fff&border_color=000"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImportFreya&layout=compact&langs_count=20&theme=tokyonight" alt="Github top linguagens"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImportFreya&theme=tokyonight" alt="Github estatísticas"/>
 </div>
 
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ImportFreya/ImportFreya/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ImportFreya/ImportFreya/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ImportFreya/ImportFreya/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 ---
 
-## 🚀 Tecnologias que uso
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5ldGlrdDR2dDlyaTI3eHpueGNsbTl5cTRoazJ2N2p2MTJ6ZHQ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AsuCf15CIj0Va/giphy.gif" width="150" alt="Naruto hokage" />
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Thau-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thau-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Thau-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Thau-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-  <img align="center" alt="Thau-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Thau-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Thau-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+> _"Enquanto você estiver com vontade de correr atrás dos seus sonhos... ninguém poderá te parar."_ 🧡  
+> — **Naruto Uzumaki**
+<br>
+
+---
+
+<div align="center">
+  <img align="middle" src="https://github.com/user-attachments/assets/44296890-aa50-4ab3-9f9c-fbf4dd8ed8bc" width="350" alt="Imagem em desenho de uma mulher e um gato em cima de um notebook" />
 </div>
-
----
-
-## 🌐 Contatos
-
-<div>
-  <a href="https://www.instagram.com/thau.souz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://discord.gg/Z55b9r73gE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
-  <a href="mailto:thauane-souza1@live.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/thauane-souza-13a40422b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-</div>
-
----
-
-## ✨ Sobre mim
-
-Sou apaixonada por tecnologia, adoro desafios e estou sempre buscando aprender mais. Tenho facilidade com trabalho em equipe, sou calma, compreensiva e dedicada. Curto muito conversar sobre o mundo tech e compartilhar conhecimentos.
-
-> Obrigada por visitar meu perfil! Volte sempre! 😄
-
----
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ImportFreya/ImportFreya/output/snake.svg" alt="Snake animation" />
-
+<br>
+<p align="center"><i>Obrigada pela visita! ❤️</i></p>
