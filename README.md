@@ -53,6 +53,6 @@ Sou apaixonada por tecnologia, adoro desafios e estou sempre buscando aprender m
 
 ---
 
-<img src="https://raw.githubusercontent.com/ImportFreya/ImportFreya/output/dist/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 
