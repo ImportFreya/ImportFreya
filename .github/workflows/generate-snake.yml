@@ -1,0 +1,27 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # executa todo dia à meia-noite
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Gerar Snake 🐍
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ImportFreya
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg
+
+      - name: Commit e push dos arquivos gerados
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "gerando snake.svg 🐍"
+          add: "dist/"
